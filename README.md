@@ -20,6 +20,7 @@ Why not just use Dart + AngularDart
 > Because I wanted to write scala, because scala is cool.
 
 
+## Licence
 
 The MIT License (MIT)
 
