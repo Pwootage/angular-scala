@@ -10,6 +10,7 @@ object AngularScala {
 
   trait Angular extends js.Object {
     def module(name: String, deps: js.Array[String]): AngularModule = ???
+    def module(name: String): AngularModule = ???
   }
 
   trait AngularModule extends js.Object {
